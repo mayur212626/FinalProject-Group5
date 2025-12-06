@@ -1,3 +1,7 @@
+venv/
+data/raw/*
+*.zip
+__pycache__/
 # macOS
 .DS_Store
 
